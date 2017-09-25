@@ -1,0 +1,2 @@
+# minimcet
+our mini project
